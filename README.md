@@ -75,9 +75,10 @@
 
 <nav>
   <a href="#">Home</a>
-  <a href="#">Politics</a>
-  <a href="#">National</a>
-  <a href="#">International</a>
+  <a href="#">Health</a>
+  <a href="#">Tech</a>
+  <a href="#">Viral</a>
+  <a href="#">Religion</a>
   <a href="#">Sports</a>
   <a href="#">Entertainment</a>
 </nav>
